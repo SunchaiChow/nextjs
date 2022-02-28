@@ -1,0 +1,9 @@
+.divTitleMain {
+    text-align: center;
+}
+
+.divTitleItem {
+    text-align: center;
+    width: 25%;
+    float:left;
+}
